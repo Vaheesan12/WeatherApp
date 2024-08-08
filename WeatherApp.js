@@ -75,7 +75,7 @@ function WeatherApp() {
 	return (
 		<div className="App">
 			<h1 className="app-name">
-				Namma Weather App
+				 MY Weather App
 			</h1>
 			<div className="search-bar">
 				<input
